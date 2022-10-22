@@ -1,5 +1,5 @@
-from pyCPN import PyCPN
-from pyEncodeDecode import stringEncode, stringDecode
+from PyCPN.pyCPN import PyCPN
+from PyCPN.pyEncodeDecode import stringEncode, stringDecode
 
 # Tested with Python v 3.7.2 and CPN Tools v 4.0.1
 # For use with processCityServer.cpn example net
